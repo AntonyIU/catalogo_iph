@@ -2,8 +2,9 @@
   "con_hecho": ["Precencia directa (flagrancia)", "Queja (petición de parte)", "Llamada de Emergencia"],
   "inter_col": ["Colinas de Anahuac", "Pedregal del Topochico", "Mirasur", "Balcones del Norte"],
   "inter_edo": ["NUEVO LEÓN", "COAHUILA", "TAMAULIPAS", "OAXACA", "JALISCO"],
-  "inter_mun": ["General Escobedo", "Salinas Victoria", "Apodaca"],
+  "inter_mun": ["General Escobedo", "Salinas Victoria", "Apodaca", "García"],
   "insti": ["Guardia Nacional", "Policía Federal Ministerial", "Policía Municipal"]
 }
+
 
 
